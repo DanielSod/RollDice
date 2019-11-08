@@ -1,0 +1,17 @@
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice.csprojAssemblyReference.cache
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\App.g.cs
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice_MarkupCompile.cache
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice_MarkupCompile.lref
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\bin\Debug\netcoreapp3.0\Dice.exe
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\bin\Debug\netcoreapp3.0\Dice.deps.json
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\bin\Debug\netcoreapp3.0\Dice.runtimeconfig.json
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\bin\Debug\netcoreapp3.0\Dice.runtimeconfig.dev.json
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\bin\Debug\netcoreapp3.0\Dice.dll
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\bin\Debug\netcoreapp3.0\Dice.pdb
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice.g.resources
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice.AssemblyInfoInputs.cache
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice.AssemblyInfo.cs
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice.dll
+D:\#Programmering\från bärbara genom git\WPF\03 - Dice\Dice\Dice\obj\Debug\netcoreapp3.0\Dice.pdb

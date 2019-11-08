@@ -1,0 +1,48 @@
+﻿<Window x:Class="Dice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid Background="DarkKhaki">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75*" />
+            <RowDefinition Height="105*" />
+            <RowDefinition Height="105*" />
+            <RowDefinition Height="105*" />
+            <RowDefinition Height="50*" />
+
+        </Grid.RowDefinitions>
+
+        <!--Dice commanding buttons-->
+        <!--<Button x:Name="btnRoll_dice" Grid.Column="1" Grid.Row="2" Content="Roll dice!" FontSize="30" Click="btnRoll_dice_Click" Margin="0,16,0,0"
+                VerticalAlignment="Top"/>-->
+
+        <Button x:Name="btnReset" FontSize="25" Content="Reset" Click="btnReset_Click" Grid.Column="1" HorizontalAlignment="Center" Margin="0,29,0,0" Grid.Row="2" VerticalAlignment="Top" Height="50" Width="120"/>
+
+        <Button x:Name="btnD4"   Click="btnD4_Click"   Content="D4"   FontSize="35" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Height="55" Width="76"  Grid.Column="0"/>
+        <Button x:Name="btnD6"   Click="btnD6_Click"   Content="D6"   FontSize="35" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="55" Width="76"  Grid.Column="0"/>
+        <Button x:Name="btnD8"   Click="btnD8_Click"   Content="D8"   FontSize="35" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="55" Width="76"  Grid.Column="0"/>
+        <Button x:Name="btnD10"  Click="btn10_Click"   Content="D10"  FontSize="35" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Height="55" Width="76"  Grid.Column="2"/>
+        <Button x:Name="btnD12"  Click="btnD12_Click"  Content="D12"  FontSize="35" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="55" Width="76"  Grid.Column="2"/>
+        <Button x:Name="btnD20"  Click="btnD20_Click"  Content="D20"  FontSize="35" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="55" Width="76"  Grid.Column="2"/>
+        <Button x:Name="btnD100" Click="btnD100_Click" Content="D100" FontSize="35" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" Height="55" Width="100" Grid.Column="1"/>
+
+        <TextBox x:Name="diceResult" IsReadOnly="True" BorderThickness="3" Grid.Column="1" Grid.Row="1" TextAlignment="Center" VerticalContentAlignment="Center"
+                 FontSize="50" VerticalAlignment="Center" HorizontalAlignment="Center" TextChanged="diceResult_TextChanged" Height="105" Width="150" 
+                 TextBlock.Foreground="Black" FontWeight="ExtraBold" Background="Beige">0</TextBox>
+
+
+
+
+    </Grid>
+</Window>
